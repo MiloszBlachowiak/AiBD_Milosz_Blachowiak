@@ -1,0 +1,73 @@
+Zmienne wykorzystywane w analizie:
+-ID - identyfikator stacji meteorologicznej,
+-Date - data pomiaru,
+-Variable - nazwa zmiennej pomiarowej:,
+    -tmin - temperatura minimalna,
+    -tmax - temperatura maksymalna,
+    -prcp - ilość opadów atmosferycznych,
+-value - wartość pomiaru,
+
+
+Podstawowe statystyki o danych:
+
+Dla temperatury minimalnej:
+:value
+
+count:11995.0
+
+mean:145.28353480616923
+
+std:23.444385492392787
+
+min:0.0
+
+25%:130.0
+
+50%:150.0
+
+75%:160.0
+
+max:290.0
+
+
+
+Dla temperatury maksymalnej:
+:value
+
+count:11274.0
+
+mean:271.50221749157356
+
+std:31.225344315337093
+
+min:110.0
+
+25%:250.0
+
+50%:270.0
+
+75%:290.0
+
+max:385.0
+
+
+
+Dla opadów atmosferycznych:
+:value
+
+count:15440.0
+
+mean:32.80006476683938
+
+std:90.86597002925093
+
+min:0.0
+
+25%:0.0
+
+50%:0.0
+
+75%:10.0
+
+max:1290.0
+
